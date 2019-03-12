@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+body{
+font-family: "Open Sans","OpenSans",sans-serif;
+font-size: 16px;
+line-height: 1.5em;
+margin: 0;
+}
+
+h1{
+font-weight: 250;
+font-size: 40px;
+letter-spacing: 2px;
+line-height: 1.2em;
+}
+
+h2{
+font-size: 30px;
+font-weight: 200;
+letter-spacing: 1px;
+}
+
+h4{
+font-size: 15px;
+letter-spacing: 1px;
+}
+
+nav{
+background-color: #C12127;
+color: rgba(255,255,255,0.8);
+padding-top: 15px;
+height: 40px;
+}
+  
+nav a {
+color: rgba(255,255,255,0.8);
+text-decoration: none;
+}
+
+.top-links { 
+float: right;
+padding: 0;
+margin: 0 20px 0 0;
+}
+  
+.top-links li {
+display: inline-block;
+margin: 0 10px;
+}
+
+.top-left{
+display: inline-block;
+}
+
+header{
+background: url("images/city-scape.svg") no-repeat right bottom;
+background-color:  rgb(32,101,136);
+background-size: cover;
+width: 100%;
+padding-bottom: 200px;
+color: white;
+}
+.text1{
+width: 42%;
+margin: 40px 0 20px 15%;
+}
+header .logo{
+height: 40px;
+margin: 8px 8px ;
+float:left;
+}
+.search-bar {
+float: left;
+width: 70%;
+height: 40px; 
+background-color: rgb(31, 82, 111);
+border: none;
+text-indent: 15px; 
+border: .1em solid lightgrey;  
+margin-top: 8px;
+}
+.bear-logo{
+width: 40px;
+height: 40px;
+margin-top:8px;
+margin-left: 8px;
+}
+header a{
+color: white;
+text-decoration: none;
+}
+.btn-search{
+width: 40px;
+height: 40px;
+float:left;
+margin-top:8px;
+background-color: rgb(31, 82, 111);
+
+}
+.sign-up{
+    margin-left: 16px;
+    float:left;
+    margin-top:15px;
+}
+.link-btn1 {
+    background-color: rgb(240, 146, 51);
+    font-size:15px;
+    letter-spacing: 1.2px;
+    padding: 10px 20px 10px; 
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px; 
+    border-color:rgb(240, 146, 51);
+
+  }
+ 
+  #collaboration{
+    background: rgb(39,53,71);
+    padding: 80px 0;
+    color:white;
+  }
+  .collaboration-content{
+    width: 80%;
+    margin: 0 auto;
+    height: 500px;;
+  }
+  #collaboration img{
+    width: 45%;
+    float: left;
+    margin-right: 5%;
+  }
+  .collaboration-text{
+    width: 50%;
+    float: left;
+  }
+  #collaboration ul{
+    padding-left: 20px;
+    margin-bottom: 30px;
+  }
+  #collaboration li{
+    margin-bottom: 9px;
+  }
+  #collaboration a{
+      color:white;
+      text-decoration:none;
+  }
+  .link-btn2 {
+    background: rgb(203,56,55);
+    font-size:15px;
+    letter-spacing: 1.2px;
+    padding: 10px 20px 10px; 
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px; 
+    border-color:rgb(203,56,55);
+
+  }
+  
+  #what{
+    background: url("images/forklift.svg") no-repeat right top;
+    background-color:  rgb(32,101,136);
+    background-size: cover;
+    padding-bottom: 150px;
+    position: relative;
+    margin: 0;
+    width: 100%;
+    min-height: 400px;
+    color:white
+  }
+  .what-text{
+    position: absolute;
+    margin: 100px 0 70px 120px;
+    width: 30%;
+  }
+  #what a{
+   color:white;
+   text-decoration: none;
+  }
+  .link-btn3 {
+    background:rgb(49, 68, 88);
+    font-size:15px;
+    letter-spacing: 1.2px;
+    padding: 10px 20px 10px; 
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px; 
+    border-color:rgb(49, 68, 88);
+
+  }
+  #build{
+      background-color: white;
+      text-align: center;
+      padding: 70px 0;
+
+  }
+  #build a{
+    color:rgb(208, 74, 73);
+  }
+  #build p{
+      color:rgb(135, 145, 156);
+  }
+  #build h2{
+   color: rgb(83, 88, 98);
+  }
+  .col{
+      width:20%;
+      float:left;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left:120px;;
+  }
+  
